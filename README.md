@@ -1,18 +1,20 @@
 # Flaschard App
 
-This is a React application designed to help students study online including ability for users to create, edit, and study custom decks and digital flashcards.
+This is a React application designed to help students study online. It includes the ability for users to create, edit, and study custom decks and digital flashcards.
 
-## :bulb: Features
-* User can create custom decks of flashcards and edit their contents
-* Study feature allows student to "self-quiz" by hiding backside of card until flipped
+## :bulb: Skills Demonstrated
+* Installed packages via NPM.
+* Wrote React function components.
+* Created routes, including nested routes, using React Router.
+* Used hooks like useState(), useParams(), and useHistory().
+* Debugged React code through console output and using the VS Code debugger.
 
-## :hammer_and_wrench: Skills
-* Javascript
-* React
+## :hammer_and_wrench: Tech Stack
+* Languages = Javascript & HTML5
+* Library = React
   * React Hooks
   * React Router
 * Bootstrap 4
-* HTML5
 
 ## :handshake: Special Thanks
 * Thinkful
